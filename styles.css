@@ -1,0 +1,16 @@
+body{
+    margin: 0; padding: 0; box-sizing: border-box;
+    height: 100vh;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: auto;
+}
+
+td, th {
+    border: 1px solid green;
+    background-color: beige;
+    padding: 8px;
+}
